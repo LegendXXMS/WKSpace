@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-int main() {
+int test10() {
 
 	int digit;
 	scanf_s("%d", &digit);
